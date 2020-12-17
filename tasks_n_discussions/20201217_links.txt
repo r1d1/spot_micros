@@ -1,0 +1,14 @@
+Links shared during the meeting:
+[16:47] Simon Markus Haller-Seeber : https://www.prusa3d.com/
+[16:48] Bart : https://spotmicroai.readthedocs.io/en/latest/assets/tutorial/all_parts.jpg
+[16:52] Erwan Valentin Renaudo : https://gitlab.com/custom_robots/spotmicroai/3dprinting
+[16:54] Simon Markus Haller-Seeber : https://github.com/michaelkubina/SpotMicroESP32/tree/master/parts/SpotMicroESP32_parts_v1_0_0
+[16:59] Jakob : https://www.thingiverse.com/thing:4155673
+[17:03] Simon Markus Haller-Seeber : https://github.com/michaelkubina/SpotMicroESP32/tree/master/assembly
+[17:08] Simon Markus Haller-Seeber : https://github.com/michaelkubina/SpotMicroESP32/tree/master/electronics
+[17:09] Simon Markus Haller-Seeber : https://github.com/michaelkubina/SpotMicroESP32/blob/master/electronics/images/electronics_0006.jpg
+[17:14] Simon Markus Haller-Seeber : https://discourse.ros.org/t/micro-ros-porting-to-esp32/16101
+[17:14] Bart : https://micropython.org/
+[17:14] Simon Markus Haller-Seeber : https://micro-ros.github.io/
+[17:21] Simon Markus Haller-Seeber : https://micro-ros.github.io/blog/2020/08/27/esp32/
+[17:22] Bart : https://github.com/micro-ROS/raspbian_apps
